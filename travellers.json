@@ -5,8 +5,8 @@
 			"esPuntoInteres" : true,
 			"imageUrl" : "https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/torres_paine.png",
 			"descripcion" : "Torres del Paine",
-			"position1": { "latitud": -50.631713, "longitud": -74.165566 },
-			"position2": { "latitud": -51.303090, "longitud": -72.842878 },
+			"position1": { "latitud": -47.785367, "longitud": -80.924629 },
+			"position2": { "latitud": -52.593388, "longitud": -67.789242 },
 		},
 		{
 			"esPuntoInteres":true,
@@ -26,8 +26,8 @@
 			"esPuntoInteres":true,
 			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/moais_rapanui.png",
 			"descripcion":"Moais - Rapa Nui",
-			"position1": { "latitud": -25.977450, "longitud": -110.835948 },
-			"position2": { "latitud": -28.189824, "longitud": -106.987307 },
+			"position1": { "latitud": -18.045763, "longitud": -121.063677 },
+			"position2": { "latitud": -36.134765, "longitud": -36.134765 },
 		},
 		{
 			"esPuntoInteres":true,
