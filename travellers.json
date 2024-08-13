@@ -1,11 +1,10 @@
 {
 	"general":
 	[
-		//Chile
 		{
-			"esPuntoInteres":true,
-			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/torres_paine.svg",
-			"descripcion":"Torres del Paine",
+			"esPuntoInteres" : true,
+			"imageUrl" : "https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/torres_paine.svg",
+			"descripcion" : "Torres del Paine",
 			"position1": { "latitud": -50.631713, "longitud": -74.165566 },
 			"position2": { "latitud": -51.303090, "longitud": -72.842878 },
 		},
@@ -37,8 +36,6 @@
 			"position1": { "latitud": -23.871699, "longitud": -70.403624},
 			"position2": { "latitud": -24.293699, "longitud": -69.944504 },
 		},
-
-		//Brasil
 		{
 			"esPuntoInteres":true,
 			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/dc0114afb7654e94839d0dd00c958504fd240052/cristo.svg",
@@ -52,7 +49,7 @@
 		{
 			"id":1,
 			"nombre":"Chile",
-			"poligono":[ {"latitud": -17.5075, "longitud": -80.0000}, {"latitud": -20.0000, "longitud": -74.0000}, {"latitud": -17.5075, "longitud": -69.8281}, {"latitud": -17.5938, "longitud": -68.6208}, {"latitud": -21.3057, "longitud": -68.4023}, {"latitud": -25.2195, "longitud": -68.4592}, {"latitud": -33.2733, "longitud": -70.0692}, {"latitud": -46.5311, "longitud": -71.2512}, {"latitud": -52.4255, "longitud": -68.7039}, {"latitud": -55.9830, "longitud": -67.2664}, {"latitud": -60.0000, "longitud": -70.0000}, {"latitud": -55.0000, "longitud": -80.0000}, {"latitud": -46.0000, "longitud": -85.0000}, {"latitud": -30.0000, "longitud": -85.0000}, {"latitud": -20.0000, "longitud": -80.0000}, {"latitud": -17.5075, "longitud": -80.0000} ],
+			"poligono":[ {"latitud": -17.5075, "longitud": -80.0000}, {"latitud": -20.0000, "longitud": -74.0000}, {"latitud": -17.5075, "longitud": -69.8281}, {"latitud": -17.5938, "longitud": -68.6208}, {"latitud": -21.3057, "longitud": -68.4023}, {"latitud": -25.2195, "longitud": -68.4592}, {"latitud": -33.2733, "longitud": -70.0692}, {"latitud": -46.5311, "longitud": -71.2512}, {"latitud": -52.4255, "longitud": -68.7039}, {"latitud": -55.9830, "longitud": -67.2664}, {"latitud": -60.0000, "longitud": -70.0000}, {"latitud": -55.0000, "longitud": -80.0000}, {"latitud": -46.0000, "longitud": -85.0000}, {"latitud": -30.0000, "longitud": -85.0000}, {"latitud": -20.0000, "longitud": -80.0000}, {"latitud": -17.5075, "longitud": -80.0000} ]
 			
 		}
 	]
