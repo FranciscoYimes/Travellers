@@ -1,70 +1,56 @@
 {
-    "general": [
-        {
-            "esPuntoInteres": true,
-            "imageUrl": "https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/torres_paine.svg",
-            "descripcion": "Torres del Paine",
-            "position1": { "latitud": -50.631713, "longitud": -74.165566 },
-            "position2": { "latitud": -51.303090, "longitud": -72.842878 }
-        },
-        {
-            "esPuntoInteres": true,
-            "imageUrl": "https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/palafitos_chiloe.svg",
-            "descripcion": "Palafitos Chiloé",
-            "position1": { "latitud": -42.302259, "longitud": -74.080930 },
-            "position2": { "latitud": -42.602621, "longitud": -73.565289 }
-        },
-        {
-            "esPuntoInteres": true,
-            "imageUrl": "https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/costanera_center.svg",
-            "descripcion": "Costanera Center",
-            "position1": { "latitud": -33.177999, "longitud": -70.703131 },
-            "position2": { "latitud": -33.487868, "longitud": -70.585844 }
-        },
-        {
-            "esPuntoInteres": true,
-            "imageUrl": "https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/moais_rapanui.svg",
-            "descripcion": "Moais - Rapa Nui",
-            "position1": { "latitud": -25.977450, "longitud": -110.835948 },
-            "position2": { "latitud": -28.189824, "longitud": -106.987307 }
-        },
-        {
-            "esPuntoInteres": true,
-            "imageUrl": "https://raw.githubusercontent.com/FranciscoYimes/Travellers/b65c102b78d6caf8da090bf9547541323e67611d/mano_desierto.svg",
-            "descripcion": "Mano del Desierto",
-            "position1": { "latitud": -23.871699, "longitud": -70.403624 },
-            "position2": { "latitud": -24.293699, "longitud": -69.944504 }
-        },
-        {
-            "esPuntoInteres": true,
-            "imageUrl": "https://raw.githubusercontent.com/FranciscoYimes/Travellers/dc0114afb7654e94839d0dd00c958504fd240052/cristo.svg",
-            "descripcion": "Cristo Redentor",
-            "position1": { "latitud": 1.941221, "longitud": -45.085113 },
-            "position2": { "latitud": -6.830142, "longitud": -38.933535 }
-        }
-    ],
-    "paises": [
-        {
-            "id": 1,
-            "nombre": "Chile",
-            "poligono": [
-                { "latitud": -17.5075, "longitud": -80.0000 },
-                { "latitud": -20.0000, "longitud": -74.0000 },
-                { "latitud": -17.5075, "longitud": -69.8281 },
-                { "latitud": -17.5938, "longitud": -68.6208 },
-                { "latitud": -21.3057, "longitud": -68.4023 },
-                { "latitud": -25.2195, "longitud": -68.4592 },
-                { "latitud": -33.2733, "longitud": -70.0692 },
-                { "latitud": -46.5311, "longitud": -71.2512 },
-                { "latitud": -52.4255, "longitud": -68.7039 },
-                { "latitud": -55.9830, "longitud": -67.2664 },
-                { "latitud": -60.0000, "longitud": -70.0000 },
-                { "latitud": -55.0000, "longitud": -80.0000 },
-                { "latitud": -46.0000, "longitud": -85.0000 },
-                { "latitud": -30.0000, "longitud": -85.0000 },
-                { "latitud": -20.0000, "longitud": -80.0000 },
-                { "latitud": -17.5075, "longitud": -80.0000 }
-            ]
-        }
-    ]
+	"general":
+	[
+		{
+			"esPuntoInteres" : true,
+			"imageUrl" : "https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/torres_paine.png",
+			"descripcion" : "Torres del Paine",
+			"position1": { "latitud": -50.631713, "longitud": -74.165566 },
+			"position2": { "latitud": -51.303090, "longitud": -72.842878 },
+		},
+		{
+			"esPuntoInteres":true,
+			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/palafitos_chiloe.png",
+			"descripcion":"Palafitos Chiloé",
+			"position1": { "latitud": -42.302259, "longitud": -74.080930 },
+			"position2": { "latitud": -42.602621, "longitud": -73.565289 },
+		},
+		{
+			"esPuntoInteres":true,
+			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/costanera_center.png",
+			"descripcion":"Costanera Center",
+			"position1": { "latitud": -33.177999, "longitud": -70.703131},
+			"position2": { "latitud": -33.487868, "longitud": -70.585844 },
+		},
+		{
+			"esPuntoInteres":true,
+			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/moais_rapanui.png",
+			"descripcion":"Moais - Rapa Nui",
+			"position1": { "latitud": -25.977450, "longitud": -110.835948 },
+			"position2": { "latitud": -28.189824, "longitud": -106.987307 },
+		},
+		{
+			"esPuntoInteres":true,
+			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/main/mano_desierto.png",
+			"descripcion":"Mano del Desierto",
+			"position1": { "latitud": -23.871699, "longitud": -70.403624},
+			"position2": { "latitud": -24.293699, "longitud": -69.944504 },
+		},
+		{
+			"esPuntoInteres":true,
+			"imageUrl":"https://raw.githubusercontent.com/FranciscoYimes/Travellers/dc0114afb7654e94839d0dd00c958504fd240052/cristo.svg",
+			"descripcion":"Cristo Redentor",
+			"position1": { "latitud": 1.941221, "longitud": -45.085113 },
+			"position2": { "latitud": -6.830142, "longitud": -38.933535 },
+		},
+	],
+	"paises":
+	[
+		{
+			"id":1,
+			"nombre":"Chile",
+			"poligono":[ {"latitud": -17.5075, "longitud": -80.0000}, {"latitud": -20.0000, "longitud": -74.0000}, {"latitud": -17.5075, "longitud": -69.8281}, {"latitud": -17.5938, "longitud": -68.6208}, {"latitud": -21.3057, "longitud": -68.4023}, {"latitud": -25.2195, "longitud": -68.4592}, {"latitud": -33.2733, "longitud": -70.0692}, {"latitud": -46.5311, "longitud": -71.2512}, {"latitud": -52.4255, "longitud": -68.7039}, {"latitud": -55.9830, "longitud": -67.2664}, {"latitud": -60.0000, "longitud": -70.0000}, {"latitud": -55.0000, "longitud": -80.0000}, {"latitud": -46.0000, "longitud": -85.0000}, {"latitud": -30.0000, "longitud": -85.0000}, {"latitud": -20.0000, "longitud": -80.0000}, {"latitud": -17.5075, "longitud": -80.0000} ]
+			
+		}
+	]
 }
